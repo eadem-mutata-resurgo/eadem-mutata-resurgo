@@ -1,4 +1,4 @@
-I'm Jacob Bernoulli Riceman Chappell, an undergraduate student at UW Madison majoring in Mathematics and Computer Science.
+Hello world. I'm Jacob Bernoulli Riceman Chappell, an undergraduate student at UW Madison majoring in Mathematics and Computer Science.
 
 
 <p align="center">
