@@ -6,5 +6,5 @@ Check out my [oiled wood!](https://www.instagram.com/jacobs_oiled_wood/)
 <p align="center">
  <img width="314" src="https://media.giphy.com/media/wOg5nrFcxu4xGpDmXx/giphy.gif" alt="bernoullian spiral">
  <br>
- <a href="https://www.desmos.com/calculator/49hmiu7vk1">Click here for the math powering this pretty picture!</a>
+ <a href="https://www.desmos.com/calculator/49hmiu7vk1">The math behind this gif</a>
 </p>
