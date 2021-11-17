@@ -4,7 +4,7 @@ Check out my [oiled wood!](https://www.instagram.com/jacobs_oiled_wood/)
 
 
 <p align="center">
- <img width="314" src="https://media.giphy.com/media/x98MGPO66erWNJluBT/giphy.gif" alt="bernoullian spiral">
+ <img width="314" src="https://media.giphy.com/media/wOg5nrFcxu4xGpDmXx/giphy.gif" alt="bernoullian spiral">
 </p>
 
 Our Spaghetti who art in meat sauce, flying be thy way. 
