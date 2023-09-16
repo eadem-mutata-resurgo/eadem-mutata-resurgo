@@ -1,4 +1,4 @@
-Hello world, I'm Jacob Riceman Chappell, a math undergrad at UW Madison.
+Hello world! I'm Jacob Riceman Chappell, a math undergrad at UW Madison.
 
 
 <p align="center">
