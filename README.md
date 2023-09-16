@@ -1,6 +1,4 @@
-Hello world! I'm Jacob Bernoulli Riceman Chappell, an undergraduate student at UW Madison majoring in Mathematics and Computer Science.
-
-Check out my [oiled wood!](https://www.instagram.com/jacobs_oiled_wood/)
+Hello world, I'm Jacob Riceman Chappell, a math undergrad at UW Madison.
 
 
 <p align="center">
