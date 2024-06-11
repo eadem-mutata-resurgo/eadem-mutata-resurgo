@@ -1,4 +1,4 @@
-Hello world! I'm Jacob Riceman Chappell, a math undergrad at UW Madison.
+Hello world! I'm Jacob Riceman Chappell, a mathematics & computer science graduate, woodworker, musician, and feline father figure.
 
 
 <p align="center">
