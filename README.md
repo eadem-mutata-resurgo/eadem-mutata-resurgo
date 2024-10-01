@@ -1,4 +1,4 @@
-Hello world! I'm Jacob, a mathematics & computer science graduate, woodworker, musician, and feline father figure.
+Hello world, I'm Jacob, a mathematician, programmer, game developer,woodworker, and musician.
 
  <div align="center">
   Below are examples of <a href="https://en.wikipedia.org/wiki/Chaos_theory">chaotic systems</a>, animated from scratch in JavaScript.
